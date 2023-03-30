@@ -1,0 +1,4 @@
+rakibul|12345|admin@123.com|kuril|0123456|admin
+user|12345|customer123@gmail.com|kuril|0123456|customer
+
+customer|12345|rakibul8226@gmail.com|kuril|01779048226|customer
